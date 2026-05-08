@@ -490,4 +490,4 @@ st.markdown("""
 <div class="footer">
     <div class="footer-text">MDF Üretim AI Sistemi · Bitirme Projesi 2024 · Makine Öğrenmesi Tabanlı Akıllı Üretim</div>
 </div>
-""", unsafe_allow_html=True) çalıştır
+""", unsafe_allow_html=True) 
