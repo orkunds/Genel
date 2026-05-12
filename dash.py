@@ -1,7 +1,8 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="MDF Üretim AI Sistemi",
+    page_title="ENDÜSTRİYEL ÜRETİMDE YAPAY ZEKA DESTEKLİ YALIN ÜRETİM YAKLAŞIMI
+    MDF Üretim AI Sistemi",
     page_icon="🏭",
     layout="wide",
     initial_sidebar_state="collapsed"
