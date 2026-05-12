@@ -400,12 +400,12 @@ st.markdown("""
         <div class="stat-label">Doğruluk</div>
     </div>
     <div class="stat-item">
-        <div class="stat-value">Real Time</div>
+        <div class="stat-value">RT</div>
         <div class="stat-label">Gerçek Zamanlı</div>
     </div>
     <div class="stat-item">
-        <div class="stat-value">ML</div>
-        <div class="stat-label">Makine Öğrenmesi</div>
+        <div class="stat-value">AI</div>
+        <div class="stat-label">Yapay Zeka</div>
     </div>
 </div>
 """, unsafe_allow_html=True)
