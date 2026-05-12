@@ -422,7 +422,9 @@ with col1:
     st.markdown("""
     <div class="module-card card-1">
         <div class="card-number">Modül 01</div>
-        <div class="card-icon-wrap">🤖</div>
+        <div class="card-icon-wrap">
+            <img src="https://github.com/orkunds/Genel/blob/main/factory.png?raw=true" style="width: 55px; height: auto; object-fit: contain;">
+        </div>
         <div class="card-title">Duruş Sınıflandırma & Süre Tahmini</div>
         <div class="card-desc">
             Makine duruşlarını otomatik sınıflandır, duruş sürelerini tahmin et. Kayıpları minimize et, OEE'yi artır.
