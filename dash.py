@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="MDF Üretim AI Sistemi",
+    page_title="Endüstriyel Üretimde Yapay Zeka Destekli Yalın Üretim Yaklaşımı",
     page_icon="🏭",
     layout="wide",
     initial_sidebar_state="collapsed"
@@ -359,7 +359,7 @@ div[data-testid="column"] { padding: 8px !important; }
 # Hero Section
 st.markdown("""
 <div class="hero">
-    <div class="hero-badge">◆ Bitirme Projesi 2024 ◆</div>
+    <div class="hero-badge">◆ Bitirme Projesi 2026 ◆</div>
     <div class="hero-title">MDF ÜRETİM</div>
     <div class="hero-title" style="margin-top: -12px;">AI SİSTEMİ</div>
     <div class="hero-subtitle">Yapay Zeka Destekli Akıllı Fabrika</div>
@@ -488,6 +488,6 @@ with col4:
 
 st.markdown("""
 <div class="footer">
-    <div class="footer-text">MDF Üretim AI Sistemi · Bitirme Projesi 2024 · Makine Öğrenmesi Tabanlı Akıllı Üretim</div>
+    <div class="footer-text">MDF Üretim AI Sistemi · Bitirme Projesi 2026 · Yapay Zeka Tabanlı Akıllı Üretim</div>
 </div>
 """, unsafe_allow_html=True) 
