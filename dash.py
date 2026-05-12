@@ -360,7 +360,7 @@ div[data-testid="column"] { padding: 8px !important; }
 st.markdown("""
 <div class="hero">
     <div class="hero-badge">◆ Bitirme Projesi 2026 ◆</div>
-    <div class="hero-title">MDF ÜRETİM</div>
+    <div class="hero-title">ENDÜSTRİYEL ÜRETİMDE YAPAY ZEKA DESTEKLİ YALIN ÜRETİM YAKLAŞIMI</div>
     <div class="hero-title" style="margin-top: -12px;">AI SİSTEMİ</div>
     <div class="hero-subtitle">Yapay Zeka Destekli Akıllı Fabrika</div>
     <div class="hero-desc">
