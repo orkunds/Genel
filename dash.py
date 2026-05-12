@@ -399,6 +399,14 @@ st.markdown("""
         <div class="stat-value">%90↑</div>
         <div class="stat-label">Doğruluk</div>
     </div>
+     <div class="stat-item">
+        <div class="stat-value">DT</div>
+        <div class="stat-label">Dijital Dönüşüm</div>
+    </div>
+     <div class="stat-item">
+        <div class="stat-value">LA</div>
+        <div class="stat-label">Yalın Üretim</div>
+    </div>
     <div class="stat-item">
         <div class="stat-value">RT</div>
         <div class="stat-label">Gerçek Zamanlı</div>
