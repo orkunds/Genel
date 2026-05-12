@@ -13,24 +13,36 @@ st.markdown("""
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
+/* Mevcut .stApp kısmını bununla değiştir */
 html, body, .stApp {
-    background-color: #060d1a;
+    background: 
+        linear-gradient(rgba(6, 13, 26, 0.88), rgba(6, 13, 26, 0.92)), 
+        url("https://www.yildizentegre.com/uploads/news/04--05-2026/e0400698-fb0a-4c79-9d89-c53dec4b16d8.jpg"); 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
     font-family: 'Exo 2', sans-serif;
 }
 
-/* Animated grid background */
+/* Mevcut .stApp::before (grid) kısmını bununla değiştir */
 .stApp::before {
     content: '';
     position: fixed;
     top: 0; left: 0;
     width: 100%; height: 100%;
     background-image:
-        linear-gradient(rgba(0,180,255,0.04) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(0,180,255,0.04) 1px, transparent 1px);
+        linear-gradient(rgba(0,180,255,0.07) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0,180,255,0.07) 1px, transparent 1px);
     background-size: 50px 50px;
     animation: gridMove 20s linear infinite;
     pointer-events: none;
     z-index: 0;
+}
+
+/* Kartların altına (module-card içine) şu satırı ekle ki resim üzerinde cam gibi dursunlar */
+.module-card {
+    backdrop-filter: blur(10px);
+    /* diğer mevcut özelliklerin kalsın... */
 }
 
 @keyframes gridMove {
@@ -384,7 +396,7 @@ st.markdown("""
         <div class="stat-label">AI Modülü</div>
     </div>
     <div class="stat-item">
-        <div class="stat-value">%94</div>
+        <div class="stat-value">%90</div>
         <div class="stat-label">Doğruluk</div>
     </div>
     <div class="stat-item">
