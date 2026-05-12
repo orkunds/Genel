@@ -396,11 +396,11 @@ st.markdown("""
         <div class="stat-label">AI Modülü</div>
     </div>
     <div class="stat-item">
-        <div class="stat-value">%90</div>
+        <div class="stat-value">%90↑</div>
         <div class="stat-label">Doğruluk</div>
     </div>
     <div class="stat-item">
-        <div class="stat-value">RT</div>
+        <div class="stat-value">Real Time</div>
         <div class="stat-label">Gerçek Zamanlı</div>
     </div>
     <div class="stat-item">
