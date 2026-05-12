@@ -442,7 +442,9 @@ with col2:
     st.markdown("""
     <div class="module-card card-2">
         <div class="card-number">Modül 02</div>
-        <div class="card-icon-wrap">🔥</div>
+        <div class="card-icon-wrap">
+            <img src="disruption.png" style="width: 55px; height: auto; object-fit: contain;">
+        </div>
         <div class="card-title">Fire Tahmini</div>
         <div class="card-desc">
             Üretim sürecinde oluşabilecek fire miktarını önceden tahmin et. Hammadde israfını azalt, maliyetleri düşür.
