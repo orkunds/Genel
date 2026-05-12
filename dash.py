@@ -376,8 +376,8 @@ st.markdown("""
     <div class="hero-title" style="margin-top: -12px;">AI SİSTEMİ</div>
     <div class="hero-subtitle">Yapay Zeka Destekli Akıllı Fabrika</div>
     <div class="hero-desc">
-        Dört farklı makine öğrenmesi modülüyle üretim süreçlerinizi optimize edin.
-        Gerçek zamanlı tahmin, sınıflandırma ve analiz.
+        Üretim süreçlerini dört güçlü yapay zeka modülüyle uçtan uca optimize edin.
+        Gerçek zamanlı tahmin, sınıflandırma ve analiz ile verimliliğinizi arttırın.
     </div>
 </div>
 
