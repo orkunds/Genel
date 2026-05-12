@@ -443,7 +443,7 @@ with col2:
     <div class="module-card card-2">
         <div class="card-number">Modül 02</div>
         <div class="card-icon-wrap">
-            <img src="disruption.png" style="width: 55px; height: auto; object-fit: contain;">
+            <img src="https://github.com/orkunds/Genel/blob/main/disruption.png?raw=true" style="width: 55px; height: auto; object-fit: contain;">
         </div>
         <div class="card-title">Fire Tahmini</div>
         <div class="card-desc">
