@@ -486,7 +486,9 @@ with col4:
     st.markdown("""
     <div class="module-card card-4">
         <div class="card-number">Modül 04</div>
-        <div class="card-icon-wrap">⚙️</div>
+        <div class="card-icon-wrap">
+            <img src="https://github.com/orkunds/Genel/blob/main/express-delivery.png?raw=true" style="width: 55px; height: auto; object-fit: contain;">
+        </div>
         <div class="card-title">Üretim Süresi Tahmini</div>
         <div class="card-desc">
             Sipariş bazlı üretim sürelerini tahmin et. Kapasite planlaması yap, teslimat tarihlerini optimize et.
