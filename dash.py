@@ -466,7 +466,9 @@ with col3:
     st.markdown("""
     <div class="module-card card-3">
         <div class="card-number">Modül 03</div>
-        <div class="card-icon-wrap">📈</div>
+        <div class="card-icon-wrap">
+            <img src="https://github.com/orkunds/Genel/blob/main/increase.png?raw=true" style="width: 55px; height: auto; object-fit: contain;">
+        </div>
         <div class="card-title">Talep & Satış Tahmini</div>
         <div class="card-desc">
             Gelecekteki talep ve satış trendlerini yapay zeka ile tahmin et. Stok optimizasyonu ve planlama.
