@@ -16,7 +16,7 @@ st.markdown("""
 /* Mevcut .stApp kısmını bununla değiştir */
 html, body, .stApp {
     background: 
-        linear-gradient(rgba(6, 13, 26, 0.58), rgba(6, 13, 26, 0.62)), 
+        linear-gradient(rgba(6, 13, 26, 0.52), rgba(6, 13, 26, 0.52)), 
         url("https://www.yildizentegre.com/uploads/news/04--05-2026/e0400698-fb0a-4c79-9d89-c53dec4b16d8.jpg"); 
     background-size: cover;
     background-position: center;
