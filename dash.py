@@ -472,6 +472,7 @@ with col2:
 
 with col3:
     st.markdown("""
+    <a href="https://denemedemand.streamlit.app/" target="_blank" style="text-decoration: none; color: inherit;">
     <div class="module-card card-3">
         <div class="card-number">Modül 03</div>
         <div class="card-icon-wrap">
