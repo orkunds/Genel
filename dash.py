@@ -511,8 +511,8 @@ with col4:
         <div class="card-arrow">Modüle Git →</div>
     </div>
     """, unsafe_allow_html=True)
-    if st.button("Modül 4 →", key="btn4", help="Üretim Süresi"):
-        st.switch_page("pages/4_Uretim_Suresi.py")
+    st.link_button("Modül 2 →", "https://denemedemand.streamlit.app/", help="Fire Tahmini Uygulamasına Git")
+
 
 st.markdown("""
 <div class="footer">
