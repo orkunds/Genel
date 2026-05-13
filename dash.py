@@ -468,7 +468,7 @@ with col2:
     </div>
     """, unsafe_allow_html=True)
     if st.button("Modül 2 →", key="btn2", help="Fire Tahmini"):
-        st.switch_page("pages/2_Fire_Tahmini.py")
+        st.switch_page("https://denemefire.streamlit.app/")
 
 with col3:
     st.markdown("""
