@@ -489,8 +489,8 @@ with col3:
         <div class="card-arrow">Modüle Git →</div>
     </div>
     """, unsafe_allow_html=True)
-    if st.button("Modül 3 →", key="btn3", help="Talep Tahmini"):
-        st.switch_page("pages/3_Talep_Tahmini.py")
+    st.link_button("Modül 2 →", "https://denemedemand.streamlit.app/", help="Fire Tahmini Uygulamasına Git")
+
 
 with col4:
     st.markdown("""
