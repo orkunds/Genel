@@ -489,7 +489,7 @@ with col3:
         <div class="card-arrow">Modüle Git →</div>
     </div>
     """, unsafe_allow_html=True)
-    st.link_button("Modül 2 →", "https://denemedemand.streamlit.app/", help="Fire Tahmini Uygulamasına Git")
+    st.link_button("Modül 3 →", "https://denemedemand.streamlit.app/", help="Fire Tahmini Uygulamasına Git")
 
 
 with col4:
